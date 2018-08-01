@@ -1,4 +1,5 @@
 .center {
     text-align: center;
-    border: 3px solid green;
+    /* color:  HotPink; */
+    font-size: 30px
 }
